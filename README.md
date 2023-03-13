@@ -21,6 +21,6 @@ BlogDetails: Your go-to source for valuable insights!
 ```
 
 ```bash
-Effortless navigation with Navbar, footer, FAQ, and BlogDetails!
+Effortless navigation with Navbar, footer, FAQ, and Blogspage!
 ```
 
