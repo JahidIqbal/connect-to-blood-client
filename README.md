@@ -2,7 +2,7 @@
 
 ## connect-to-blood-client
 
-Live site link: connect-to-blood-client.vercel.app
+Live site link: https://connect-to-blood-client.vercel.app/
 
 Server site Github:https://github.com/bitue/connect-to-blood-server
 
